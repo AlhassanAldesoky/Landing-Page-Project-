@@ -29,4 +29,4 @@ Because here lies the main functionality of the program:
 
 -When the user clicks on a specific section from the navigation bar, the page will automatically and smoothly scroll down to this section. At first, the main functionality of this only made the page jump to the clicked section but this was solved when an event listner is added to the navigation bar, when the user clicks on an item, the default behaviour of jumping is removed and instead it scrolls down smoothly after waiting a very short time.
 
-Check it out: 
+Check it out: https://alhassanaldesoky.github.io/Landing-Page-Project-/
